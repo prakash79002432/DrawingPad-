@@ -39,7 +39,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/drawing-pad.git
+git clone https://github.com/prakash79002432/DrawingPad-
 cd drawing-pad
 Install Python dependencies
 
@@ -58,7 +58,7 @@ Open your browser Visit http://localhost:5000 to see the drawing pad!
 📜 Requirements
 Python 3.8+
 
-Flask or FastAPI
+Flask or FastAPI        
 
 Basic web browser (Chrome, Firefox, Safari, etc.)
 
